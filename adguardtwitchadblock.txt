@@ -20,3 +20,4 @@
 ||mask-api.icloud.com^$important
 ||mask.apple-dns.net^$important
 ||spade.sci.twitch.tv^$important
+||gateway.fe2.apple-dns.net^$important 
