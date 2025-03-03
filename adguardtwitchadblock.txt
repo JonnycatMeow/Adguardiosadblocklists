@@ -1,0 +1,7 @@
+!
+! Title: Adguard twitch Adblock
+! Description: blocks twitch ads 
+! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
+||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^$important
+||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^$important
+||edge.ads.twitch.tv^$important 
