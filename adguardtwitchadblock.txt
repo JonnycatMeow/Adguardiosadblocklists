@@ -1,6 +1,9 @@
-!
+z!
 ! Title: Adguard twitch Adblock
 ! Description: blocks twitch ads 
 ! Homepage: https://raw.githubusercontent.com/JonnycatMeow/Adguardtwitch/refs/heads/main/adguardtwitchadblock.txt
 ||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^$important
 ||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^$important
+||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^$important
+||firebaselogging-pa.googleapis.com^$important
+||ivs-berryessa-edge-alb-1756416733.us-west-2.elb.amazonaws.com^$important
