@@ -7,9 +7,5 @@
 ||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^$important
 ||firebaselogging-pa.googleapis.com^$important
 ||ivs-berryessa-edge-alb-1756416733.us-west-2.elb.amazonaws.com^$important
-||50.112.117.9^
-||52.36.31.130^
-||54.148.79.39^
-||3.215.75.135^
-||35.173.92.39^
-||54.174.198.157^
+||edge.ads.twitch.tv^$important
+||*.pdx01.abs.hls.ttvnw.net^$important
