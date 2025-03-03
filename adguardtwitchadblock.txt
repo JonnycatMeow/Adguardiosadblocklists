@@ -4,4 +4,3 @@
 ! Homepage: https://raw.githubusercontent.com/JonnycatMeow/Adguardtwitch/refs/heads/main/adguardtwitchadblock.txt
 ||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^$important
 ||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^$important
-||edge.ads.twitch.tv^$important 
