@@ -21,4 +21,4 @@
 ||mask.apple-dns.net^$important
 ||spade.sci.twitch.tv^$important
 ||gateway.fe2.apple-dns.net^$important 
-||ec2-54-68-53-117.us-west-2.compute.amazonaws.com
+||ec2-54-68-53-117.us-west-2.compute.amazonaws.com^$important
