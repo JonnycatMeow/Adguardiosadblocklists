@@ -1,7 +1,7 @@
 !
-! Title: Adguard twitch Adblock
-! Description: blocks twitch ads 
-! Homepage: https://raw.githubusercontent.com/JonnycatMeow/Adguardiosadblocklists/refs/heads/main/adguardtwitchadblock.txt
+! Title: Adguard ios adblock list
+! Description: blocks twitch ads & more
+! Homepage: https://raw.githubusercontent.com/JonnycatMeow/Adguardiosadblocklists/refs/heads/main/adguardiosadblocklist.txt
 ||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^$important
 ||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^$important
 ||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^$important
@@ -21,3 +21,4 @@
 ||mask.apple-dns.net^$important
 ||spade.sci.twitch.tv^$important
 ||gateway.fe2.apple-dns.net^$important 
+||ec2-54-68-53-117.us-west-2.compute.amazonaws.com
