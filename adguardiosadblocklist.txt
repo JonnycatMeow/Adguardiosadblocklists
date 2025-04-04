@@ -13,3 +13,7 @@
 ||adclick.g.doubleclick.net^
 ||googleads.g.doubleclick.net^
 ||ad.doubleclick.net^
+
+! att&t dns 
+||lb._dns-sd._udp.attlocal.net^
+||app-analytics-services-att.com^
