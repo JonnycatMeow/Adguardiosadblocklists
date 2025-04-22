@@ -2,13 +2,9 @@
 ! Title: Adguard ios adblock list
 ! Description: blocks twitch ads & more
 ! Homepage: https://raw.githubusercontent.com/JonnycatMeow/Adguardiosadblocklists/refs/heads/main/adguardiosadblocklist.txt
-||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^$dnsrewrite=NXDOMAIN;;
-||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^$dnsrewrite=NXDOMAIN;;
-||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^$dnsrewrite=NXDOMAIN;;
-||edge.ads.twitch.tv^$dnsrewrite=NXDOMAIN;;
-||*.pdx01.abs.hls.ttvnw.net^$dnsrewrite=NXDOMAIN;;
-||spade.sci.twitch.tv^$dnsrewrite=NXDOMAIN;;
-||*.amazon-adsystem.com^$dnsrewrite=NXDOMAIN;;
-||adclick.g.doubleclick.net^$dnsrewrite=NXDOMAIN;;
-||googleads.g.doubleclick.net^$dnsrewrite=NXDOMAIN;;
-||ad.doubleclick.net^$dnsrewrite=NXDOMAIN;;
+||api.twitch.us-east-1.prod.paets.advertising.amazon.dev^$dnsrewrite=ad-block.dns.adguard.com
+||api.twitch.us-west-2.prod.paets.advertising.amazon.dev^$dnsrewrite=ad-block.dns.adguard.com
+||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^$dnsrewrite=ad-block.dns.adguard.com
+||edge.ads.twitch.tv^$dnsrewrite=ad-block.dns.adguard.com
+||spade.sci.twitch.tv^$dnsrewrite=ad-block.dns.adguard.com
+||*.amazon-adsystem.com^$dnsrewrite=ad-block.dns.adguard.com
