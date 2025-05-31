@@ -7,4 +7,5 @@
 ||science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com^$dnsrewrite=ad-block.dns.adguard.com
 ||edge.ads.twitch.tv^$dnsrewrite=ad-block.dns.adguard.com
 ||spade.sci.twitch.tv^$dnsrewrite=ad-block.dns.adguard.com
-||*.amazon-adsystem.com^$dnsrewrite=ad-block.dns.adguard.com
+||s.amazon-adsystem.com^$dnsrewrite=ad-block.dns.adguard.com
+||tp.2632ce734-frontier.amazon-adsystem.com^$dnsrewrite=ad-block.dns.adguard.com 
