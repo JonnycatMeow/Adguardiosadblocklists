@@ -1,5 +1,5 @@
 # credits:        twitchadblock
-# this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
+# this URL:       https://raw.githubusercontent.com/JonnycatMeow/Adguardiosadblocklists/refs/heads/main/twitchadblock.txt
 
 127.0.0.1 api.twitch.us-east-1.prod.paets.advertising.amazon.dev
 127.0.0.1 api.twitch.us-west-2.prod.paets.advertising.amazon.dev
