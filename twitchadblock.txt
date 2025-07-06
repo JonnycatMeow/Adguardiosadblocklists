@@ -7,4 +7,5 @@
 127.0.0.1 edge.ads.twitch.tv
 127.0.0.1 spade.sci.twitch.tv
 127.0.0.1 s.amazon-adsystem.com
-127.0.0.1 tp.2632ce734-frontier.amazon-adsystem.com
+127.0.0.1 sq-tungsten-ts.amazon-adsystem.com
+127.0.0.1 c.amazon-adsystem.com
