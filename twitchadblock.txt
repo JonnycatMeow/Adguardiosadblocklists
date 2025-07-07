@@ -1,9 +1,8 @@
 # credits:        twitchadblock
 # this URL:       https://raw.githubusercontent.com/JonnycatMeow/Adguardiosadblocklists/refs/heads/main/twitchadblock.txt
-#twitch ad moblie links 
+127.0.0.1 science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com
 127.0.0.1 api.twitch.us-east-1.prod.paets.advertising.amazon.dev
 127.0.0.1 api.twitch.us-west-2.prod.paets.advertising.amazon.dev
-#web links 
 127.0.0.1 tungsten-service.prod.na.adsqtungsten.a9.amazon.dev
 127.0.0.1 edge.ads.twitch.tv
 127.0.0.1 spade.sci.twitch.tv
